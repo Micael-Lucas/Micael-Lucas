@@ -1,4 +1,4 @@
-<h2 align="center">MICAEL LUCAS DA SILVA</h2>
+<h2 align="center">MICAEL LUCAS DA SILVA <br> <p>Engenheiro da Informação e Desenvolvedor</p></h2>
 <h2 align="center">Engenheiro da Informação e Desenvolvedor</h2>
 
 - 🔭 Atualmente estou trabalhando no projeto da Influencer [THAMI ANDRADE](thamiandrade.com)
