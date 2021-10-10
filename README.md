@@ -1,11 +1,13 @@
-<h1 align="center">Olá, meu nome é Micael Lucas da Silva</h1>
-<h3 align="center">Uma pessoa entusiasta do mundo da programação!</h3>
+<h1 align="center">Micael Lucas da Silva</h1>
+<h3 align="center">Engenheiro da Informação e Desenvolvedor</h3>
 
 - 🔭 Atualmente estou trabalhando no projeto da Influencer [THAMI ANDRADE](thamiandrade.com)
 
-- 🌱 Estou aprendendo atualmente sobre **PHP e C**
+- 🌱 Estou aprendendo atualmente sobre **C e me especializando em JAVA**
 
-- 📫 Você pode entrar em contato comigo pelo meu email **micael.lucas.silva@gmail.com**
+- 📫 Você pode entrar em contato comigo pelo meu email **micael.lucas.silva@gmail.com** ou Celular **+55 (11) 99734-0637**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
